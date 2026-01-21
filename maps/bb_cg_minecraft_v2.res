@@ -1,7 +1,6 @@
-// .res entries:
-gfx/env/tropicup.tga
-gfx/env/tropicdn.tga
-gfx/env/tropiclf.tga
-gfx/env/tropicrt.tga
-gfx/env/tropicft.tga
-gfx/env/tropicbk.tga
+---
+layout: null
+permalink: /bb_cg_minecraft_v2.res
+redirect_to:
+  - /bb_cg_minecraft_v2.res.gz
+---

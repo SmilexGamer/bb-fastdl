@@ -1,8 +1,6 @@
----Assault for CS Base Builder Mod---
-
-	Terrorist spawn: 24
-	CounterTerrorist spawn: 24
-        Map size: normal
-        Author: Hedgehog
-
---------------------------------------
+---
+layout: null
+permalink: /bb_assault_complete.txt
+redirect_to:
+  - /bb_assault_complete.txt.gz
+---
