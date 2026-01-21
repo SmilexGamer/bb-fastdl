@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /TutorTextWindow.res
+permalink: /resource/UI/TutorTextWindow.res
 redirect_to:
-  - /TutorTextWindow.res.gz
+  - /resource/UI/TutorTextWindow.res.gz
 ---

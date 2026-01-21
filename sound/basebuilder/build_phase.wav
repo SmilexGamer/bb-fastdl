@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /build_phase.wav
+permalink: /sound/basebuilder/build_phase.wav
 redirect_to:
-  - /build_phase.wav.gz
+  - /sound/basebuilder/build_phase.wav.gz
 ---

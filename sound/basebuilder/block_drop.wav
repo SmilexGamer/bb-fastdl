@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /block_drop.wav
+permalink: /sound/basebuilder/block_drop.wav
 redirect_to:
-  - /block_drop.wav.gz
+  - /sound/basebuilder/block_drop.wav.gz
 ---

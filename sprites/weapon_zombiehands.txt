@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /weapon_zombiehands.txt
+permalink: /sprites/weapon_zombiehands.txt
 redirect_to:
-  - /weapon_zombiehands.txt.gz
+  - /sprites/weapon_zombiehands.txt.gz
 ---

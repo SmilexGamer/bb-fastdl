@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /bb_brasil_final.txt
+permalink: /maps/bb_brasil_final.txt
 redirect_to:
-  - /bb_brasil_final.txt.gz
+  - /maps/bb_brasil_final.txt.gz
 ---

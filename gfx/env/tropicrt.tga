@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /tropicrt.tga
+permalink: /gfx/env/tropicrt.tga
 redirect_to:
-  - /tropicrt.tga.gz
+  - /gfx/env/tropicrt.tga.gz
 ---

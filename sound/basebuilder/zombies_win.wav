@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /zombies_win.wav
+permalink: /sound/basebuilder/zombies_win.wav
 redirect_to:
-  - /zombies_win.wav.gz
+  - /sound/basebuilder/zombies_win.wav.gz
 ---

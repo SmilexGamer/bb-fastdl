@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /bb_assault_complete.txt
+permalink: /maps/bb_assault_complete.txt
 redirect_to:
-  - /bb_assault_complete.txt.gz
+  - /maps/bb_assault_complete.txt.gz
 ---

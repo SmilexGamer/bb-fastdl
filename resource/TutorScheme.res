@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /TutorScheme.res
+permalink: /resource/TutorScheme.res
 redirect_to:
-  - /TutorScheme.res.gz
+  - /resource/TutorScheme.res.gz
 ---

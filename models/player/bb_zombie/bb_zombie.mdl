@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /bb_zombie.mdl
+permalink: /models/player/bb_zombie/bb_zombie.mdl
 redirect_to:
-  - /bb_zombie.mdl.gz
+  - /models/player/bb_zombie/bb_zombie.mdl.gz
 ---
